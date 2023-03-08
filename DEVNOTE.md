@@ -13,7 +13,7 @@ conda 23.1.0
 
 ## Development
 
-README.md의 Production-Ready Pretrained Models를 참고하여 준비 후 아래 커맨드 실행
+[README.md](README.md##production-ready-pretrained-models)를 참고하여 준비 후 아래 커맨드 실행
 
 ```bash
 export CUDA_VISIBLE_DEVICES=7 && python gradio_scribble2image_interactive.py
